@@ -1,0 +1,10 @@
+{
+  "id": "skyreels-v4",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-12T10:24:09Z",
+  "prices": {},
+  "rates": {},
+  "unit": null,
+  "hook": "per generated second at 1080p / 32 FPS",
+  "model_page": "https://apimart.ai/model/skyreels-v4"
+}
